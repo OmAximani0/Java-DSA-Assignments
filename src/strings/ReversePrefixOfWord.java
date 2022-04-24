@@ -12,6 +12,7 @@ public class ReversePrefixOfWord {
 		int idx = word.indexOf(ch)+1;
         sb.append(word.substring(0, idx));
         sb.reverse();
-        return "";
+        sb.append(word.substring(idx));
+        return sb.toString();
     }
 }

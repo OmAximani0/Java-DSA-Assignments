@@ -1,4 +1,4 @@
-package strings;
+package strings.easy;
 
 import java.util.List;
 

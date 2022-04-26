@@ -1,4 +1,4 @@
-package strings;
+package strings.easy;
 
 public class RestoreString {
     public static void main(String[] args) {

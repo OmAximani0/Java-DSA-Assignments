@@ -1,4 +1,4 @@
-package strings;
+package strings.easy;
 
 public class GoalParserInterception {
     public static void main(String[] args) {

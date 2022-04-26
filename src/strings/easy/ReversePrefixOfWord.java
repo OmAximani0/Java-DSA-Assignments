@@ -1,4 +1,4 @@
-package strings;
+package strings.easy;
 
 public class ReversePrefixOfWord {
 	public static void main(String[] args) {
